@@ -80,7 +80,7 @@ function buildCharts(sample) {
     }];
 
     var bubbleChart_layout = {
-      width: 1200,
+      width: 900,
       height: 500,
       margin: {t:0, b:0},
       xaxis: {title: 'OTU ID'},
@@ -104,7 +104,7 @@ function buildCharts(sample) {
           axis: { range: [null, 10]},
           bar: { color: "cyane" },
           steps: [
-            { range: [0, 1], color: 'rgba(193, 66, 66, 1)' },
+            { range: [0, 1], color: 'rgba(193, 66, 66, 0.3)' },
             { range: [1, 2], color: 'rgba(193, 66, 66, 0.5)' },
             { range: [2, 3], color: 'rgba(193, 66, 66, 0.6)' },
             { range: [3, 4], color: 'rgba(193, 66, 66, 0.7)' },
