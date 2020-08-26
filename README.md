@@ -37,14 +37,14 @@ In this challenge, we've completed visualizing the bacteria data for each volunt
 
 <a name="find"></a>
 ## Final Outlook
-![](challenge/pics/panel.png)
+![](pics/panel.png)
 This is what it looks like when we select an ID.
 
-![](challenge/pics/bar.png)
+![](pics/bar.png)
 This shows the top 10 bacterial species in the selected volunteer's belly.
 
-![](challenge/pics/Bubble.png)
+![](pics/Bubble.png)
 The size of the bubble indicates how many of a particular bacteria species (for each OTU ID) lives in the belly button. 
 
-![](challenge/pics/gauge.png)
+![](pics/gauge.png)
 This gauge chart shows how many times the selected volunteer wash their belly button so we can have an idea whether the frequency of washing can lead to more bacteria. 
