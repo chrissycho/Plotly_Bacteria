@@ -37,6 +37,9 @@ In this challenge, we've completed visualizing the bacteria data for each volunt
 
 <a name="find"></a>
 ## Final Outlook
+https://chrissycho.github.io/Plotly_Bacteria/ 
+We've successfully deployed our page through GitHub Pages. 
+
 ![](pics/panel.png)
 This is what it looks like when we select an ID.
 
